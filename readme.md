@@ -47,23 +47,19 @@ Podemos observar que existe una diferencia significativa en la cantidad de hombr
 
 El gráfico muestra una enorme diferencia entre las víctimas de accidentes que fallecen el mismo día del accidente y aquellas que fallecen posteriormente. Más del 85% de las víctimas fallecen el mismo día del accidente. Después del primer día, solo un 9.2% de las víctimas fallecen durante la primera semana. Finalmente, solo un 5.7% fallecen entre la primera semana y los 30 días posteriores al accidente. Este análisis resalta la gravedad de los accidentes viales y la importancia de la atención inmediata. La alta tasa de mortalidad el mismo día subraya la necesidad de mejorar las respuestas de emergencia y las medidas preventivas para reducir la mortalidad en el lugar del accidente.
 <h1 align=center>KPIS</h1>
-
 <h1>KPI 1:</h1>
 Reducir en un 10% la tasa de homicidios viales para el próximo año.
 
 Ejemplo de uso:
-<p align="center"><img src="src\kpi1.png" height=300></p>
-Este KPI permite medir la efectividad de las políticas y medidas de seguridad vial implementadas para reducir la tasa de homicidios viales. Un objetivo claro y medible, como reducir la tasa en un 10%, facilita el seguimiento del progreso y la identificación de áreas que requieren mejoras adicionales. Si el KPI resultante muestra una reducción del 10% o más, significa que las estrategias implementadas están funcionando. Si la reducción es menor, se deben considerar ajustes y nuevas medidas para alcanzar el objetivo deseado.
 
+<p align="center">En el primer semestre de 2021, la tasa de homicidios viales fue de 1.73 por cada 100,000 habitantes, y en el segundo semestre fue de 1.35. Este KPI permite medir la efectividad de las políticas y medidas de seguridad vial implementadas para reducir la tasa de homicidios viales. Un objetivo claro y medible, como reducir la tasa en un 10%, facilitaría el seguimiento del progreso y la identificación de áreas que requieren mejoras adicionales. Si el KPI resultante muestra una reducción del 10% o más, significa que las estrategias implementadas están funcionando. Si la reducción es menor, se deben considerar ajustes y nuevas medidas para alcanzar el objetivo deseado.</p>
 <h1>KPI 2:</h1>
 Reducir en un 7% la cantidad de accidentes mortales de motociclistas en el último año, en CABA, respecto al año anterior.
 
 Ejemplo de uso:
 
-<p align="center"><img src="src\kpi2.png" height=400></p>
-Este KPI tiene como objetivo medir el éxito de las iniciativas específicas dirigidas a mejorar la seguridad de los motociclistas en la Ciudad Autónoma de Buenos Aires. Al establecer una meta de reducción del 7% en la cantidad de accidentes mortales de motociclistas, se busca enfocar los esfuerzos en esta población vulnerable. El seguimiento de este KPI permitirá evaluar el impacto de las medidas de seguridad vial implementadas, como campañas de concientización, mejoras en la infraestructura y la regulación del tráfico, asegurando así una disminución significativa en los accidentes mortales entre motociclistas.
-
-<h1 align=center>Conclusiones </h1>
+<p align="center">En 2020, la cantidad de accidentes mortales de motociclistas fue de 29, mientras que en 2021 aumentó a 46. Este KPI tiene como objetivo medir el éxito de las iniciativas específicas dirigidas a mejorar la seguridad de los motociclistas en la Ciudad Autónoma de Buenos Aires. Al establecer una meta de reducción del 7% en la cantidad de accidentes mortales de motociclistas, se busca enfocar los esfuerzos en esta población vulnerable. El seguimiento de este KPI permitirá evaluar el impacto de las medidas de seguridad vial implementadas, como campañas de concientización, mejoras en la infraestructura y la regulación del tráfico, asegurando así una disminución significativa en los accidentes mortales entre motociclistas.</p>
+<h1 align=center>Conclusiones</h1>
 Durante el análisis de los datos y las visualizaciones, se pudieron identificar patrones intrigantes relacionados con la seguridad vial en distintas localidades. Se observó que algunas regiones presentan tasas de homicidios viales considerablemente superiores a otras, lo que sugiere disparidades en la infraestructura o el acceso a servicios de alta seguridad vial. Además, se resaltaron áreas que podrían beneficiarse de mejoras en la infraestructura y en la implementación de políticas de seguridad vial.
 
 En resumen, este informe proporciona una descripción detallada del proceso de análisis de la seguridad vial en diversas localidades utilizando herramientas analíticas. Los resultados enfatizan la importancia de abordar las diferencias en la seguridad vial y de implementar medidas efectivas para reducir la mortalidad en accidentes de tránsito. Esta información ofrece una base sólida para la toma de decisiones informadas en cuanto a la mejora de la seguridad vial y la reducción de accidentes mortales en aquellas áreas que requieren atención.
