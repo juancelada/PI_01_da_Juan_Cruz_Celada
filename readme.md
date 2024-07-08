@@ -69,4 +69,4 @@ En resumen, este informe proporciona una descripción detallada del proceso de a
 Nombre del Autor: Celada Juan Cruz<br>
 Email: Juan.celada123@gmail.com <br>
 [GitHub] (https://github.com/juancelada/PI_01_da_Juan_Cruz_Celada)<br>
-[LinkedIn](https://www.linkedin.com/in/juan-cruz-celada/)
+[LinkedIn] (https://www.linkedin.com/in/juan-cruz-celada/)
