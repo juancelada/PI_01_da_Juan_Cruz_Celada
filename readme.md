@@ -63,3 +63,10 @@ Ejemplo de uso:
 Durante el análisis de los datos y las visualizaciones, se pudieron identificar patrones intrigantes relacionados con la seguridad vial en distintas localidades. Se observó que algunas regiones presentan tasas de homicidios viales considerablemente superiores a otras, lo que sugiere disparidades en la infraestructura o el acceso a servicios de alta seguridad vial. Además, se resaltaron áreas que podrían beneficiarse de mejoras en la infraestructura y en la implementación de políticas de seguridad vial.
 
 En resumen, este informe proporciona una descripción detallada del proceso de análisis de la seguridad vial en diversas localidades utilizando herramientas analíticas. Los resultados enfatizan la importancia de abordar las diferencias en la seguridad vial y de implementar medidas efectivas para reducir la mortalidad en accidentes de tránsito. Esta información ofrece una base sólida para la toma de decisiones informadas en cuanto a la mejora de la seguridad vial y la reducción de accidentes mortales en aquellas áreas que requieren atención.
+
+
+
+Nombre del Autor: Celada Juan Cruz<br>
+Email: Juan.celada123@gmail.com <br>
+[GitHub] (https://github.com/juancelada/PI_01_da_Juan_Cruz_Celada)<br>
+[LinkedIn](https://www.linkedin.com/in/juan-cruz-celada/)
